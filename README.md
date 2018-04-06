@@ -7,7 +7,7 @@ A curated list of awesome synth design tutorials and resources. Many of these ar
 Name | Synthesizer | Description 
 -----| ----- | --------- 
 [Synth Secrets](https://github.com/micjamking/synth-secrets) | Any | A legendary tutorial series by Gordon Reid on the secrets of synthesis. Highly recommended.
-[Thor Demystified](https://www.propellerheads.se/blog/thor-demystified-1-the-analogue-oscillator) | The first of a 17 part series by Gordon Reid on the Thor synthesizer. This is very much a companion to Synth Secrets, but with the advantage that you can hear what everything is supposed to sound like.
+[Thor Demystified](https://www.propellerheads.se/blog/thor-demystified-1-the-analogue-oscillator) | Thor |The first of a 17 part series by Gordon Reid on the Thor synthesizer. This is very much a companion to Synth Secrets, but with the advantage that you can hear what everything is supposed to sound like.
 [Synthesis Workshop](https://rhordijk.home.xs4all.nl/G2Pages/index.htm)|Nord Modular G2|A decent and short introduction to a wide range of synthesis techniques by Rob Hordijk
 [Nord Modular Workshops](http://electro-music.com/nm_classic/015_workshops/Clavia/NordModularWorkshops&Threads/WerkMap/WorkShops/)|Nord Modular G2|Links to various workshops run by Rob Hordijk. Hard to follow on other synthesizer, but some real gems
 
