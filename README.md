@@ -16,6 +16,7 @@ Name | Synthesizer | Description
 -----| ----- | ------------
 [The Book of Bad Ideas V2](https://www.infinitesimal.eu/modules/images/5/5e/The_book_of_bad_ideas_V2.pdf) | Modular and Eurorack | A cookbook of various ideas and experiments to try with your modular environment.
 [Advanced Programming Techniques for Modulars](https://www.cim.mcgill.ca/~clark/nordmodularbook/nm_book_toc.html)|Nord Modular| Very sophisticated discussion of a huge range of synthesis techniques from Rob Hordijk
+[SeamlessR's YouTube channel](https://www.youtube.com/channel/UC2mgCVJWitRUTIpgd7pLung) | FL Studio, various plugins | Hundreds of detailed sound synthesis videos. Drum synthesis tutorials highly recommended
 
 ## FM Synthesis
 Name | Synthesizer | Description 
