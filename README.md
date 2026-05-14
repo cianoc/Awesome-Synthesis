@@ -23,3 +23,10 @@ Name | Synthesizer | Description
 -----| ----- |  -----------
 [Manny's Modulation Manifesto](https://yamahasynth.com/resources/basics-of-fm-synthesis) | Yamaha Reface DX | A first rate guide to sound design on an FM synthesizer. Watch the videos and achieve enlightenment | 
 
+## Free IR Verbs
+-----| ----- | ------------
+[(https://resoundsound.com/4-impulse-response-reverb-packs/)]|Echo Thief Free Impulse Response Library] | More than 100 real world spaces sampled from around North America.
+
+# Tools
+-----| ----- | ------------
+[(https://codeberg.org/sciss/FScape)|FScape] Non RT synthesis tool for doing various sound manipulation things
