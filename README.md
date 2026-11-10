@@ -24,9 +24,12 @@ Name | Synthesizer | Description
 [Manny's Modulation Manifesto](https://yamahasynth.com/resources/basics-of-fm-synthesis) | Yamaha Reface DX | A first rate guide to sound design on an FM synthesizer. Watch the videos and achieve enlightenment | 
 
 ## Free IR Verbs
+Name | Resource | Description
 -----| ----- | ------------
 [(https://resoundsound.com/4-impulse-response-reverb-packs/)]|Echo Thief Free Impulse Response Library] | More than 100 real world spaces sampled from around North America.
 
 # Tools
+Name | Resource | Description
 -----| ----- | ------------
 [(https://codeberg.org/sciss/FScape)|FScape] Non RT synthesis tool for doing various sound manipulation things
+[(https://bipluk.com/)|bipluk] | Hardware Synths | Browser-native Web MIDI librarian for auditioning, cataloging, and backing up vintage synthesizer patch banks.
