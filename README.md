@@ -22,6 +22,7 @@ Name | Synthesizer | Description
 Name | Synthesizer | Description 
 -----| ----- |  -----------
 [Manny's Modulation Manifesto](https://yamahasynth.com/resources/basics-of-fm-synthesis) | Yamaha Reface DX | A first rate guide to sound design on an FM synthesizer. Watch the videos and achieve enlightenment | 
+- [FM-1 Emulator](https://fm1-emulator.atst.tools/) - Free browser emulator for the M-VAVE FM-1 pocket synth; plays stock and 200+ community firmwares
 
 ## Free IR Verbs
 Name | Resource | Description
